@@ -1,0 +1,21 @@
+.lock-text-for-ai-locked {
+  background-color: rgba(var(--color-green-rgb), 0.13);
+  border-radius: 2px;
+}
+.lock-text-for-ai-open {
+  cursor: pointer;
+  font-size: 0.75em;
+  padding: 0 2px;
+  opacity: 0.75;
+  user-select: none;
+}
+.lock-text-for-ai-open:hover {
+  opacity: 1;
+}
+.lock-text-for-ai-close {
+  display: inline-block;
+  width: 0;
+  height: 1em;
+  vertical-align: text-bottom;
+  border-right: 2px solid rgba(var(--color-green-rgb), 0.6);
+}

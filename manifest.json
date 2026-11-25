@@ -1,0 +1,10 @@
+{
+  "id": "lock-text-for-ai",
+  "name": "Lock Text for AI",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Lock finished passages with a highlight so AI assistants editing your notes leave them unchanged.",
+  "author": "Jay",
+  "authorUrl": "https://github.com/abysscat-yj",
+  "isDesktopOnly": false
+}
